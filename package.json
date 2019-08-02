@@ -1,0 +1,27 @@
+{
+  "name": "starwars-names",
+  "version": "1.0.0",
+  "description": "Get random Star Wars name",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/julioakira/starwars-names.git"
+  },
+  "keywords": [
+    "starwars",
+    "names",
+    "open-source"
+  ],
+  "author": "Julio Akira Pedroso <julio.akira.pedroso@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/julioakira/starwars-names/issues"
+  },
+  "homepage": "https://github.com/julioakira/starwars-names#readme",
+  "dependencies": {
+    "unique-random-array": "2.0.0"
+  }
+}
